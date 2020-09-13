@@ -1,0 +1,20 @@
+{
+  "name": "RobinProfile",
+  "version": "1.0.0",
+  "description": "Profile Generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Robin",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^26.4.2"
+  }
+}
