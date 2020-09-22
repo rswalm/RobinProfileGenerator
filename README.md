@@ -15,3 +15,7 @@ Application Features:
 
 ![employee profile3](employee3.png)
 
+* Links:
+* https://github.com/rswalm/RobinProfileGenerator.git
+* https://rswalm.github.io/RobinProfileGenerator/
+* https://drive.google.com/file/d/1a1k7fKR9wF43V5_wk12JoSP8IIgOCaTX/view?usp=sharing
